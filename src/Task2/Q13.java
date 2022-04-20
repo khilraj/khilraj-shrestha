@@ -1,4 +1,4 @@
-package Task1;
+package Task2;
 import java.util.Scanner;
 
 // If the marks of Robert in three subjects are entered through keyboard (each out of 100 ),
